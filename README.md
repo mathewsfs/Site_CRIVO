@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Site CRIVO
 
 Site institucional da CRIVO, desenvolvido com Next.js, TypeScript e Tailwind CSS.
@@ -45,7 +45,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Desenvolvido com ❤️ pela equipe CRIVO
-=======
+
 # Site_CRIVO
 Site institucional da CRIVO, desenvolvido com Next.js, TypeScript e Tailwind CSS.
->>>>>>> ca444da0819135c9372ed0f320dc0d8b9edda96d
+ca444da0819135c9372ed0f320dc0d8b9edda96d
